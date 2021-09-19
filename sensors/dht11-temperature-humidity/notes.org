@@ -1,0 +1,4 @@
+DHT11 TEMPERATURE & HUMIDITY SENSORS
+
+* Wiring
+The DHT11 can run on 3.3v or 5v power, and requires one data pin per sensor. There are 8 pins in a row on the RPi GPIO pins that will provide 3.3v, GND, and 6 IO pins, which are highlighted in [[file:dht11-temperature-humidity/pinout.png][the pinout]].
